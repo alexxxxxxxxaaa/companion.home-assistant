@@ -6,3 +6,5 @@ WORKDIR /workspaces
 ENV NODE_ENV=devcontainer
 
 EXPOSE 3000
+
+
